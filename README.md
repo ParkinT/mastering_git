@@ -11,47 +11,41 @@ ISBN: 978-1-78355-413-3 from [Packt Publishing](http://www.packtpub.com/)
 
 ## Video Tutorial Course - 120 minutes
 
-### Course Outline
-
-Complete this 120 minute course and become a [![Gitizen](http://gitizen.com/images/gitizen.png)](http://gitizen.com)!
-
-### References & Resources
-
-[A comparison of protocols offered by GitHub](https://gist.github.com/grawity/4392747)
-[Better Understanding of Diff](http://www.sitepoint.com/understanding-version-control-diffs/)
-[ProGit](http://git-scm.com/book/en/Git-Internals-Git-Objects) - The Ultimate Guide to Git
-[Merging](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging) - from [ProGit](http://git-scm.com/book/en/Git-Internals-Git-Objects) - The Ultimate Guide to Git
-[git Submodules](http://alblue.bandlem.com/2011/11/git-tip-of-week-git-submodules.html)
-["Feature Branch" Workflow](https://www.atlassian.com/git/workflows#!workflow-feature-branch)
-[Git from the Bottom Up](http://newartisans.com/2008/04/git-from-the-bottom-up/)
-Great, clean, well-formatted [git reference](http://gitref.org/branching/)
-[Eric Sink 'Version Control by Example'](http://www.ericsink.com/vcbe/)
-
-From the git source
-
-[Some details, tips and tricks](https://github.com/git/git/tree/master/Documentation/howto)
-[Text used to construct the Man Pages](https://github.com/git/git/tree/master/Documentation)
 
 ### Addendum
 
-Look in the branch '[addendum](https://github.com/ParkinT/mastering_git/tree/addendum)'
+Add this to the `~/.bashrc` file on your computer for the customized command prompt that shows your current 'git' branch:
 
-### Errata
+```
+[ -z "$PS1" ] && return
 
-Look in the branch '[errata](https://github.com/ParkinT/mastering_git/tree/addendum)'
+function parse_git_dirty
+{
+  git diff --no-ext-diff --quiet --exit-code &> /dev/null || echo "*"
+}
 
-### Updates
+function parse_git_branch
+{
+  git branch --no-color >2 /dev/null | sed -e '/^[^*]/d' -e "s/* \(.*\)/(\1$(parse_git_dirty))/"
+}
 
-Look in the branch '[updates](https://github.com/ParkinT/mastering_git/tree/updates)'
- 
+export CLICOLOR=1
+export PS1="\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$(parse_git_branch)\$ "
+```
 
-### The Gititudes
+#### Details of the Diff output
 
- - Git never forgets
- - Git remembers only changes in files and not simply files
- - Git will only commit changes in the index and not changes in the working directory
- - Git tries really hard to protect you from horrible mistakes
- - Git provides the means to craft a History as YOU WANT IT TO BE
+{{THOM: add this to wiki}}
+
+short form - XY PATH1 -> PATH2
+For paths with merge conflicts, X and 'Y' show the modification states of each side of the merge. For paths that do not have merge conflicts, X shows the status of the index, and Y shows the status of the work tree. For untracked paths, XY are ??. Other status codes can be interpreted as follows: ' ' = unmodified
+
+ - 'M' = modified
+ - 'A' = added
+ - 'D' = deleted
+ - 'R' = renamed
+ - 'C' = copied
+ - 'U' = updated but unmerged
 
 ===
 

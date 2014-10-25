@@ -1,0 +1,54 @@
+# Git Alias definitions from 'Mastering Git' by Thom Parkin (Packt Publishing |  ISBN: 978-1-78355-413-3)
+
+### Common Commands
+ssb = status -sb
+logo = log --oneline
+c = commit -m
+a = add
+cob = checkout -b
+st = status -s
+co = checkout
+stat = status
+cl = clone
+ci = commit
+co = checkout
+br = branch
+
+### Diff
+diff = diff --word-diff
+dc = diff --cached
+
+### Log
+who = shortlog -n -s --no-merges #to see who has contributed to the project
+hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+
+## File Inspection
+type = cat-file -t
+dump = cat-file -p
+
+### Oops
+undo = reset --hard HEAD~1
+
+## Pretty Print
+ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+lds = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+l = log --graph --pretty=format:'%C(yellow)%h%C(cyan)%d%Creset %s %C(white)- %an, %ar%Creset'
+
+## Stash Shortcuts
+sl = stash list
+sa = stash apply
+ss = stash save
+
+## Find a filepath in the codebase
+f = !git ls-files | grep -i
+oneweek = log --format="%H" --since="1 week ago" --reverse | xargs -L 1 git show
+fivedays = log --format="%H" --since="5 days ago" --reverse | xargs -L 1 git show
+fourdays = log --format="%H" --since="4 days ago" --reverse | xargs -L 1 git show
+
+## Special thanks to Harold GimÃ©nez
+cleanup = !git remote prune origin && git gc && git clean -dfx && git stash clear
+
+## List all aliases
+aliases = !git config -l | grep alias | cut -c 7-

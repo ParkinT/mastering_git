@@ -3,19 +3,21 @@ Mastering Git
 
 Thom Parkin
 
-ISBN: 978-1-78355-413-3
+ISBN: [978-1-78355-413-3](https://www.packtpub.com/application-development/mastering-git-video)
+
+---
 
 ## The Outline
 
-Estimated Course Length: ~120 mins
+Course Length: 137 minutes
 
 ### Section 1: Keeping Software under [Source] Control
 
-Estimated Video Length: 4-5 mins
+Section Total Length: 6 minutes
 
 A brief overview of Version Control (Source Control Management) including a description of the two primary approaches; Centralized and Distributed.
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - Understanding Version Control
  - The implications of Version Control
@@ -24,11 +26,11 @@ List of topics that will be covered in the section:
 
 ### Section 2: Let's git Started
 
-Estimated Video Length: 4 mins
+Section Total Length: 5 minutes
 
-Setup git, verify the version installed, and learn a technique to use git anytime from anywhere
+Assuming [git is installed](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git), verify the version installed and learn a technique to use git anytime from anywhere.
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - Using git with Nitrous.IO
  - No installation required (online)
@@ -37,14 +39,14 @@ List of topics that will be covered in the section:
 
 ### Section 3: The git Workflow under a Microscope
 
-Estimated Video Length: 12-15 mins
+Section Total Length: 28 minutes
 
 A close look at the git workflow and details of how git works.
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - The Typical git Workflow
- - Most developers new to git fall into a standard pattern of use
+   - Most developers new to git fall into a standard pattern of use
  - Setting the Stage
  - The Commit – an intimate look
  - The git directory 
@@ -55,26 +57,24 @@ List of topics that will be covered in the section:
 
 ### Section 4: When Your Development Takes a Detour
 
-Estimated Video Length: 15-20 mins
+Section Total Length: 11 minutes
 
-An introduction to the concept of branching; from the larger ‘software development’ perspective. 
+An introduction to the concept of branching; from the larger ‘software development’ perspective and an introduction to the “Feature Branch” concept.
 
-An introduction to the “Feature Branch” concept.
-
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - Branching
  - Branching in git
  - Details of the design philosophy (approach) git uses for branching
-git “feature branch”
+   - the git “feature branch”
 
 ### Section 5: Communicating with Developers of the Future
 
-Estimated Video Length: 14-21 mins
+Section Total Length: 27 minutes
 
 An Introduction to the git history. An in-depth exploration of the details stored in the history. Examples of various ways to access and display history.
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - History
  - Commit Messages
@@ -84,15 +84,13 @@ List of topics that will be covered in the section:
  - Reset
   - Giant OOPS button
 
-### Section 6: Changing Managing History
+### Section 6: ~~Changing~~ Managing History
 
-Estimated Video Length: 19-25 mins
+Section Total Length: 30 minutes
 
-An introduction to git operations and commands that help to manage the repository history. 
+An introduction to git operations and commands that help to manage the repository history with an exploration of several examples of these commands.
 
-An exploration of several examples of these commands.
-
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - Altering History
  - Rebase
@@ -109,11 +107,11 @@ List of topics that will be covered in the section:
 
 ### Section 7: git-ting More Efficient
 
-Estimated Video Length: 6-10 mins
+Section Total Length: 13 minutes
 
 An introduction to various techniques and shortcuts to improve the efficiency of using git.
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
  - Stash
   - Temporary interruptions in the timeline
@@ -124,36 +122,39 @@ List of topics that will be covered in the section:
 
 ### Section 8: Leaving the Nest 
 
-Estimated Video Length: 6-8 mins
+Section Total Length: 8 minutes
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
 
-#### When Troubles Arise
-
-An introduction to many ‘common’ problems and difficulties when working with git. A focus on the more common problems that strike those who are new to git.
-
-#### The Ultimate Reference : A git repository
-
-A final compilation of the ‘git Help User Guide’ (Your git Help Aid) that has been developed as part of the guided exercises.
+ - When Troubles Arise
+   - An introduction to many ‘common’ problems and difficulties when working with git.
+   - A focus on the more common problems that strike those who are new to git.
+ - The Ultimate Reference : A git repository
+   - A final compilation of the ‘git Help User Guide’ (Your git Help Aid) that has been developed as part of the guided exercises.
 
 ### Section 9: Final Thoughts
 
-Estimated Video Length: 2-3 mins
+Section Total Length: 4 minutes
 
 A few parting thoughts, some ideas and suggestions to go further.
 An invitation to become a “Gitizen” (a member of the elite group of expert git users)
 
 ### Section 10: References & Resources
 
-Estimated Video Length: 3 mins
+Section Total Length: 5 minutes
 
 References, Citations and other resources to further explore and expand your understanding of Git.
 
-List of topics that will be covered in the section:
+List of topics covered in the section:
 
- - Further Reading
- - Books
- - E-books
- - Web resources
+ - Additional [last minute] tips and tricks
+ - References
+   - Web Resources
+   - Further Reading
+   - Books & E-books
+ - Acknowledgments
+   - [Beegit](https://www.beegit.com/signup) Coupon Code: __MasteringGit__
+   - [Nitrous Charged](http://goo.gl/J1Zbsg)
 
+--- 

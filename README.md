@@ -4,16 +4,16 @@ Mastering Git
 
 Thom Parkin
 
-ISBN: 978-1-78355-413-3 from [Packt Publishing](http://www.packtpub.com/)
+ISBN: [978-1-78355-413-3](https://www.packtpub.com/application-development/mastering-git-video) from [Packt Publishing](http://www.packtpub.com/)
 
 
 ===
 
-## Video Tutorial Course - 120 minutes
+## Video Tutorial Course - 130 minutes
 
 ### Course Outline
 
-Complete this 120 minute course and become a [![Gitizen](http://gitizen.com/images/gitizen.png)](http://gitizen.com)!
+Complete this 130 minute course and become a [![Gitizen](http://gitizen.com/images/gitizen.png)](http://gitizen.com)!
 
 ### References & Resources
 
@@ -67,7 +67,7 @@ Look in the branch '[updates](https://github.com/ParkinT/mastering_git/tree/upda
 
 ===
 
-'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued reader YOU have direct access to a special promotional offer.
+['Mastering Git'[(https://www.packtpub.com/application-development/mastering-git-video) was written entirely with [BeeGit](http://www.beegit.com), and as a valued reader YOU have direct access to a special promotional offer.
 If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.
 
 This entire presentation was developed, tested and validated using [Nitrous.IO](http://goo.gl/40W3l).

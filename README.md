@@ -4,7 +4,7 @@ Mastering Git
 
 Thom Parkin
 
-ISBN: 978-1-78355-413-3 from [Packt Publishing](http://www.packtpub.com/)
+ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://www.packtpub.com/)
 
 
 ===
@@ -28,6 +28,6 @@ This entire presentation was developed, tested and validated using [Nitrous.IO](
 
 ===
 
-[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://www.nitrous.io/hack_button?source=embed&runtime=go&repo=ParkinT%2mastering_git.git)]
+[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://www.nitrous.io/hack_button?source=embed&runtime=go&repo=ParkinT%2mastering_git.git)
 
 &copy; Packt Publishing 2015 -- all rights reserved

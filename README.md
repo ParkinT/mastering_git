@@ -9,10 +9,15 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 ===
 
-## Video Tutorial Course - 120 minutes
-
+## Video Tutorial Course - 130 minutes
 
 ### Addendum
+
+#### Git Workflow
+
+I recommend [Git Workflows for Pros: A Good Git Guide](http://www.toptal.com/git/git-workflows-for-pros-a-good-git-guide) by [Joe James](http://www.joejames.io/) for an in-depth exposition of various Git Workflow options.
+
+#### Current Branch in the Prompt
 
 Add this to the `~/.bashrc` file on your computer for the customized command prompt that shows your current 'git' branch:
 

@@ -14,7 +14,7 @@ ISBN: 978-1-78355-413-3 from [Packt Publishing](http://www.packtpub.com/)
 
 ### Errata
 
-{Nothing to date reported}
+ 1. As [pointed out](https://github.com/ParkinT/mastering_git/issues/3) by [@tonedef](https://github.com/tonedef71), "Currently (and for the foreseeable future) the SourceTree GUI client for Git is only available for the Mac OS X and Microsoft Windows operating systems".  Here are [a few alternatives for Linux](http://alternativeto.net/software/sourcetree/?platform=linux).
 
 ===
 

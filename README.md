@@ -15,6 +15,8 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 Release Notes:
 
+ - [Version 2.4.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.4.0.txt)
+   - Thomas Ferris Nicolaisen describes the [enhanced 'push-to-deply' capability](http://blog.tfnico.com/2015/05/a-better-way-to-git-push-to-deploy.html) in [his blog](http://blog.tfnico.com/)
  - [Version 2.3.0](https://github.com/git/git/blob/master/Documentation/RelNotes/2.3.0.txt)
    - GitHub blog [explains some of the changes](https://github.com/blog/1957-git-2-3-has-been-released) with examples
  - [Version 2.2.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.2.0.txt)

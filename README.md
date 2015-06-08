@@ -9,7 +9,7 @@ ISBN: 978-1-78355-413-3 from [Packt Publishing](http://www.packtpub.com/)
 
 ===
 
-## Video Tutorial Course - 120 minutes
+## Video Tutorial Course - 100+ minutes
 
 
 ### Errata

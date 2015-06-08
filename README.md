@@ -9,7 +9,7 @@ ISBN: [978-1-78355-413-3](https://www.packtpub.com/application-development/maste
 
 ===
 
-## Video Tutorial Course - 130 minutes
+## Video Tutorial Course - 100+ minutes
 
 ### Course Outline
 

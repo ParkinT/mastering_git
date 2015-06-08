@@ -9,7 +9,7 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 ===
 
-## Video Tutorial Course - 130 minutes
+## Video Tutorial Course - 100+ minutes
 
 ### Addendum
 
@@ -51,6 +51,10 @@ For paths with merge conflicts, X and 'Y' show the modification states of each s
  - 'R' = renamed
  - 'C' = copied
  - 'U' = updated but unmerged
+
+===
+
+The smart people at GitHub have provided this [compact reference for **Undo** almost anything in git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
 
 ===
 

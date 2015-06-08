@@ -9,7 +9,7 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 ===
 
-## Video Tutorial Course - 120 minutes
+## Video Tutorial Course - 100+ minutes
 
 ### Git updates
 

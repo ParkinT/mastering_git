@@ -38,19 +38,13 @@ export CLICOLOR=1
 export PS1="\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$(parse_git_branch)\$ "
 ```
 
-#### Details of the Diff output
+#### [Details of the Diff output](https://github.com/ParkinT/mastering_git/wiki/Details-of-the-Diff-Output)
 
-{{THOM: add this to wiki}}
+===
 
-short form - XY PATH1 -> PATH2
-For paths with merge conflicts, X and 'Y' show the modification states of each side of the merge. For paths that do not have merge conflicts, X shows the status of the index, and Y shows the status of the work tree. For untracked paths, XY are ??. Other status codes can be interpreted as follows: ' ' = unmodified
-
- - 'M' = modified
- - 'A' = added
- - 'D' = deleted
- - 'R' = renamed
- - 'C' = copied
- - 'U' = updated but unmerged
+#### How to Write a Git Commit Message
+[This terrific article](http://chris.beams.io/posts/git-commit/) by [Chris Beams](http://chris.beams.io/) contains lots of good advice.
+I particularly like the idea of finishing the sentence "If applied, this commit will...". That is what I intended in Mastering Git when I stated the message should advise "the developer of the future" (usually me) how the project will change if this commit is checked out.
 
 ===
 
@@ -58,13 +52,22 @@ The smart people at GitHub have provided this [compact reference for **Undo** al
 
 ===
 
-'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued reader YOU have direct access to a special promotional offer.
-If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.
+#### Legit
+[Legit](http://www.git-legit.org/) is a complementary command-line interface for Git, optimized for workflow simplicity.  [Fork it on GitHub](https://github.com/kennethreitz/legit) and contribute to the project! 
 
-This entire presentation was developed, tested and validated using [Nitrous.IO](http://goo.gl/40W3l).
+#### First Aid Git
+[First Aid Git](http://ricardofilipe.com/projects/firstaidgit/) is a very useful resource, carefully curated list of common questions about git.
+Much better than the SHOTGUN approach of StackOverflow.
 
 ===
 
-[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://www.nitrous.io/hack_button?source=embed&runtime=go&repo=ParkinT%2mastering_git.git)
+'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued student YOU have direct access to a special promotional offer.
+If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.
+
+This entire presentation was developed, tested and validated using [Nitrous.IO](http://pro.nitrous.io/).
+
+===
+
+[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://pro.nitrous.io/)
 
 &copy; Packt Publishing 2015 -- all rights reserved

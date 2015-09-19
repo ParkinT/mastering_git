@@ -15,6 +15,8 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 Release Notes:
 
+ - [Version 2.6.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.6.0.txt)
+ - [Version 2.5.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.5.0.txt)
  - [Version 2.4.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.4.0.txt)
    - Thomas Ferris Nicolaisen describes the [enhanced 'push-to-deply' capability](http://blog.tfnico.com/2015/05/a-better-way-to-git-push-to-deploy.html) in [his blog](http://blog.tfnico.com/)
  - [Version 2.3.0](https://github.com/git/git/blob/master/Documentation/RelNotes/2.3.0.txt)
@@ -24,13 +26,13 @@ Release Notes:
 
 ===
 
-'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued reader YOU have direct access to a special promotional offer.
+'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued student YOU have direct access to a special promotional offer.
 If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.
 
-This entire presentation was developed, tested and validated using [Nitrous.IO](http://goo.gl/40W3l).
+This entire presentation was developed, tested and validated using [Nitrous.IO](http://pro.nitrous.io/).
 
 ===
 
-[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://www.nitrous.io/hack_button?source=embed&runtime=go&repo=ParkinT%2mastering_git.git)
+[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://pro.nitrous.io/)
 
 &copy; Packt Publishing 2015 -- all rights reserved

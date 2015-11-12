@@ -19,87 +19,26 @@ Complete this course and become a
 
 [![Gitizen](http://gitizen.com/images/gitizen.png)](http://gitizen.com)
 
-Section 1: Keeping Software under [Source] Control
+  - Section 1: Keeping Software under [Source] Control
 
-  - Understanding Version Control
-    - The implications of Version Control
-    - Centralized versus Distributed
-    - Solo Developer versus Collaborative group
+  - Section 2: Let's git Started [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=kiRMsKW7PaI)
 
-Section 2: Let's git Started [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=kiRMsKW7PaI)
+  - Section 3: The git Workflow under a Microscope [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=LO-T7RqqqNA)
 
-  - Using git with Nitrous.IO
-    - No installation required (online)
-  - Verify your git installation & git version
-  - Setup Globals
+  - Section 4: When Your Development Takes a Detour [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=ekUTgbxMt3w)
 
-Section 3: The git Workflow under a Microscope [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=LO-T7RqqqNA)
+  - Section 5: Communicating with Developers of the Future [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=kIhyJK8lbF8)
 
-  - The Typical git Workflow
-    - Most developers new to git fall into a standard pattern of use
-  - Setting the Stage
-  - The Commit – an intimate look
-  - The git directory
-  - The Remote
-  - Tracking Remotes
-    - Details on connecting to remote git repositories and ‘tracking branches’
+  - Section 6: Changing Managing History [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=clkDENcltN4)
 
-Section 4: When Your Development Takes a Detour [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=ekUTgbxMt3w)
+  - Section 7: git-ting More Efficient [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=AfKO0U4WU3g)
 
-  - Branching
-  - Branching in git
-    - Details of the design philosophy (approach) git uses for branching
-    - git “feature branch”
+  - Section 8: Leaving the Nest [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=dYgF_uPm5t8)
 
-Section 5: Communicating with Developers of the Future [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=kIhyJK8lbF8)
+  - Section 9: Final Thoughts
 
-  - History
-  - Commit Messages
-    - A Challenging Philosophical Approach
-  - Merging
-    - The developer’s “Magic Missile”
-  - Reset
-    - Giant OOPS button
+  - Section 10: References & Resources
 
-Section 6: Changing Managing History [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=clkDENcltN4)
-
-  - Altering History
-  - Rebase
-  - Blame
-    - It is not MY fault
-  - Diff
-    - What’s the difference?
-  - Bisect
-    - Locating the source of trouble
-  - Patches
-    - Producing small updates that can be distributed as an email attachment
-  - Git subModules
-    - Using the work of others
-
-Section 7: git-ting More Efficient [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=AfKO0U4WU3g)
-
-  - Stash
-    - Temporary interruptions in the timeline
-  - Aliases
-    - Personalized shortcuts
-  - GUI Clients for git
-    - “We do windows”
-
-Section 8: Leaving the Nest [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=dYgF_uPm5t8)
-
-  - When Troubles Arise
-    - An introduction to many ‘common’ problems and difficulties when working with git. A focus on the more common problems that strike those who are new to git.
-  - The Ultimate Reference : A git repository
-    - A revelation and final compilation of the ‘git Help User Guide’ (Your git Help Aid) that has been developed as part of the guided exercises.    
-
-Section 9: Final Thoughts
-
-Section 10: References & Resources
-
-  - Further Reading
-    - Books
-    - E-books
-    - Web resources
 
 ### References & Resources
 

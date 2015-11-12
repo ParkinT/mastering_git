@@ -6,14 +6,100 @@ Thom Parkin
 
 ISBN: [978-1-78355-413-3](https://www.packtpub.com/application-development/mastering-git-video) from [Packt Publishing](http://www.packtpub.com/)
 
-
-===
+---
 
 ## Video Tutorial Course - 100+ minutes
 
+Featured on [Git Minutes](https://www.youtube.com/watch?v=4PFCnm0f2XE)
+
+
 ### Course Outline
 
-Complete this 130 minute course and become a [![Gitizen](http://gitizen.com/images/gitizen.png)](http://gitizen.com)!
+Complete this course and become a
+
+[![Gitizen](http://gitizen.com/images/gitizen.png)](http://gitizen.com)
+
+Section 1: Keeping Software under [Source] Control
+
+  - Understanding Version Control
+    - The implications of Version Control
+    - Centralized versus Distributed
+    - Solo Developer versus Collaborative group
+
+Section 2: Let's git Started [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=kiRMsKW7PaI)
+
+  - Using git with Nitrous.IO
+    - No installation required (online)
+  - Verify your git installation & git version
+  - Setup Globals
+
+Section 3: The git Workflow under a Microscope [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=LO-T7RqqqNA)
+
+  - The Typical git Workflow
+    - Most developers new to git fall into a standard pattern of use
+  - Setting the Stage
+  - The Commit – an intimate look
+  - The git directory
+  - The Remote
+  - Tracking Remotes
+    - Details on connecting to remote git repositories and ‘tracking branches’
+
+Section 4: When Your Development Takes a Detour [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=ekUTgbxMt3w)
+
+  - Branching
+  - Branching in git
+    - Details of the design philosophy (approach) git uses for branching
+    - git “feature branch”
+
+Section 5: Communicating with Developers of the Future [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=kIhyJK8lbF8)
+
+  - History
+  - Commit Messages
+    - A Challenging Philosophical Approach
+  - Merging
+    - The developer’s “Magic Missile”
+  - Reset
+    - Giant OOPS button
+
+Section 6: Changing Managing History [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=clkDENcltN4)
+
+  - Altering History
+  - Rebase
+  - Blame
+    - It is not MY fault
+  - Diff
+    - What’s the difference?
+  - Bisect
+    - Locating the source of trouble
+  - Patches
+    - Producing small updates that can be distributed as an email attachment
+  - Git subModules
+    - Using the work of others
+
+Section 7: git-ting More Efficient [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=AfKO0U4WU3g)
+
+  - Stash
+    - Temporary interruptions in the timeline
+  - Aliases
+    - Personalized shortcuts
+  - GUI Clients for git
+    - “We do windows”
+
+Section 8: Leaving the Nest [![YouTube Preview](youtube.png)](https://www.youtube.com/watch?v=dYgF_uPm5t8)
+
+  - When Troubles Arise
+    - An introduction to many ‘common’ problems and difficulties when working with git. A focus on the more common problems that strike those who are new to git.
+  - The Ultimate Reference : A git repository
+    - A revelation and final compilation of the ‘git Help User Guide’ (Your git Help Aid) that has been developed as part of the guided exercises.    
+
+Section 9: Final Thoughts
+
+Section 10: References & Resources
+
+  - Further Reading
+    - Books
+    - E-books
+    - Web resources
 
 ### References & Resources
 
@@ -55,9 +141,9 @@ Look in the branch '[errata](https://github.com/ParkinT/mastering_git/tree/errat
 ### Updates
 
 Look in the branch '[updates](https://github.com/ParkinT/mastering_git/tree/updates)'
- 
 
-### The Gititudes
+
+### [The Gititudes](http://www.gititudes.com)
 
  - Git never forgets
  - Git remembers only changes in files and not simply files
@@ -65,7 +151,7 @@ Look in the branch '[updates](https://github.com/ParkinT/mastering_git/tree/upda
  - Git tries really hard to protect you from horrible mistakes
  - Git provides the means to craft a History as YOU WANT IT TO BE
 
-===
+---
 
 ['Mastering Git](https://www.packtpub.com/application-development/mastering-git-video)' was written entirely with [BeeGit](http://www.beegit.com), and as a valued reader YOU have direct access to a special promotional offer.
 If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.

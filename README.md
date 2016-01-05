@@ -59,6 +59,9 @@ The smart people at GitHub have provided this [compact reference for **Undo** al
 [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/) is a very useful resource, carefully curated list of common questions about git.
 Much better than the SHOTGUN approach of StackOverflow.
 
+#### Git Bisect
+The wonderful people at GitHub have written [this great short explanation of th `git bisect` command](https://github.com/blog/2094-new-year-new-git-release?utm_source=twitter&utm_medium=social&utm_campaign=git-release-2.7#review-of-git-bisect)
+
 ===
 
 'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued student YOU have direct access to a special promotional offer.
@@ -70,4 +73,4 @@ This entire presentation was developed, tested and validated using [Nitrous.IO](
 
 [![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://pro.nitrous.io/)
 
-&copy; Packt Publishing 2015 -- all rights reserved
+&copy; Packt Publishing 2015-2016 -- all rights reserved

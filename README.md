@@ -15,6 +15,7 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 Release Notes:
 
+ - [Version 2.7.0](https://github.com/git/git/blob/v2.7.0/Documentation/RelNotes/2.7.0.txt)
  - [Version 2.6.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.6.0.txt)
  - [Version 2.5.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.5.0.txt)
  - [Version 2.4.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.4.0.txt)

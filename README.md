@@ -13,6 +13,22 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 
 ### Addendum
 
+#### Git fetch & pull changes
+
+Due to changes in Git 2.x the behavior with respect to remote-tracking branches (and 'fetch' or 'pull') is different.  Further complicating matters, all the top search results point to StackOverflow pages that were written prior to this change.
+
+Now, a `git clone` command will **only** bring in the master branch.  In order to properly setup the remote-tracking-branches (when the cloned repository has other branches) you need to follow the advice in [this StackOverflow topic](http://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches) (about halfway down the page);
+ 
+ - Use this bash command to create local branches for all remote-tracking ones
+```
+for b in `git branch -r | grep -v -- '->'`; do git branch --track ${b##origin/} $b; done
+```
+ - Use `'git fetch --all` or `git pull --all`
+
+This has worked for me reliably many times.
+
+===
+
 #### Git Workflow
 
 I recommend [Git Workflows for Pros: A Good Git Guide](http://www.toptal.com/git/git-workflows-for-pros-a-good-git-guide) by [Joe James](http://www.joejames.io/) for an in-depth exposition of various Git Workflow options.

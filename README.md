@@ -92,8 +92,7 @@ Look in the branch '[updates](https://github.com/ParkinT/mastering_git/tree/upda
 
 ---
 
-['Mastering Git](https://www.packtpub.com/application-development/mastering-git-video)' was written entirely with [BeeGit](http://www.beegit.com), and as a valued reader YOU have direct access to a special promotional offer.
-If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.
+['Mastering Git](https://www.packtpub.com/application-development/mastering-git-video)' was written entirely with [BeeGit](http://www.beegit.com).
 
 This entire presentation was developed, tested and validated using [Nitrous.IO](http://goo.gl/40W3l).
 

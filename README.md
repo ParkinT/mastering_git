@@ -61,6 +61,7 @@ Great, clean, well-formatted [git reference](http://gitref.org/branching/)
 
 [Eric Sink 'Version Control by Example'](http://www.ericsink.com/vcbe/)
 
+Tim Pettersen's [Lesser Known Git Commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60#.dgo7t6dnj) is a fantastic, short-read, of some very useful advanced tricks
 
 #####From the git source
 

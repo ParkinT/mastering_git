@@ -14,7 +14,7 @@ ISBN: [978-1-78355-413-3](http://goo.gl/iC43kt) from [Packt Publishing](http://w
 ### Git updates
 
 Release Notes:
-
+ - [Version 2.11](https://hackernoon.com/whats-new-in-git-2-11-64860aea6c4f#.anmxh3nk6) -  an excellent article highlighting the changes
  - [Version 2.8.0](https://github.com/blog/2131-git-2-8-has-been-released) <sup>Highlights from GitHub</sup>
  - [Version 2.7.0](https://github.com/git/git/blob/v2.7.0/Documentation/RelNotes/2.7.0.txt)
  - [Version 2.6.0](https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.6.0.txt)

@@ -76,9 +76,6 @@ The wonderful people at GitHub have written [this great short explanation of th 
 'Mastering Git' was written entirely with [BeeGit](http://www.beegit.com), and as a valued student YOU have direct access to a special promotional offer.
 If you subscribe to Beegit's terrific service and enter the Coupon Code "MasteringGit", you will be rewarded.
 
-This entire presentation was developed, tested and validated using [Nitrous.IO](http://pro.nitrous.io/).
-
-
-[![Mastering Git is 'Nitrous Charged'](https://gist.githubusercontent.com/ParkinT/22e59e6b450d4694431a/raw/d2bde10f78da6fd5b438f0cb726b09f527d48bbf/NitrousCharged.png)](https://pro.nitrous.io/)
+[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) by Tom Preston-Werner is a GREAT way to gain a grasp of the fundamental philosophy of Git.
 
 &copy; Packt Publishing 2015-2018 -- all rights reserved
